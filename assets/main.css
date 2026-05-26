@@ -86,7 +86,7 @@ th,td{
 }
 
 .banner img {
-    width: 100%;
+    width: 90%;
     height: 100%;
     object-fit: cover;   /* fills banner */
     display: block;
