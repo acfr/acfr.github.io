@@ -89,6 +89,8 @@ th,td{
     width: 100%;
     height: auto;
     display: block;
+    margin-top: 75px; /* set to your navbar's height */
+    margin-bottom: -75px;
 }
 
 .top-left {font-size:5.33em; color: #505050; background: #fafafa; text-align: center; width: 1000px; height: 67px; position: absolute; padding: 36px 0 0 0; top: 0px;}
